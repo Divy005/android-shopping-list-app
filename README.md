@@ -27,7 +27,11 @@ This is a simple Android app built to help users create and manage their shoppin
    git clone https://github.com/Divy005/shopping-list-app.git
 
   Images:
-  ![image](https://github.com/user-attachments/assets/7b5a3828-b90b-427a-a642-15b1d65fd0b8)
-  ![image](https://github.com/user-attachments/assets/0ec3781a-be49-4394-b7e8-1d77b85e8f79)
+
+![WhatsApp Image 2025-01-20 at 00 02 34_4aae5215](https://github.com/user-attachments/assets/0f256b69-1d52-4556-aed7-450db7574fda)
+![WhatsApp Image 2025-01-20 at 00 02 56_1ab19304](https://github.com/user-attachments/assets/97c2e6e3-fc70-456f-98b1-84203bc75371)
+![WhatsApp Image 2025-01-20 at 00 05 36_db4aecc8](https://github.com/user-attachments/assets/3688a18d-33aa-4875-a7d6-51dd12a20f91)
+
+
 
 
